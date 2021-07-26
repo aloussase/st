@@ -1,8 +1,6 @@
 //static char *font = "InputMono:pixelsize=16:antialias=true:autohint=true";
 static char *font = "Mononoki:pixelsize=18:antialias=true:autohint=true";
-static char *font2[] = {
-    "FiraCode Nerd Font:pixelsize=12:antialias=true:autohint=true",
-};
+static char *font2[] = { "Symbola:pixelsize=10:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
